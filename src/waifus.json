@@ -193,84 +193,102 @@
   },
   {
     "code": "#33",
+    "name": "modeus book waifu",
+    "extension": "gif",
+    "location": "waifus/modeus book waifu.gif"
+  },
+  {
+    "code": "#34",
+    "name": "modeus pixel 1 waifu",
+    "extension": "gif",
+    "location": "waifus/modeus pixel 1 waifu.gif"
+  },
+  {
+    "code": "#35",
+    "name": "modeus pixel 2 waifu",
+    "extension": "gif",
+    "location": "waifus/modeus pixel 2 waifu.gif"
+  },
+  {
+    "code": "#36",
     "name": "monkey waifugif",
     "extension": "gif",
     "location": "waifus/monkey waifugif.gif"
   },
   {
-    "code": "#34",
+    "code": "#37",
     "name": "mouse_cam",
     "extension": "gif",
     "location": "waifus/mouse_cam.gif"
   },
   {
-    "code": "#35",
+    "code": "#38",
     "name": "onegai_waifu",
     "extension": "mp4",
     "location": "waifus/onegai_waifu.mp4"
   },
   {
-    "code": "#36",
+    "code": "#39",
     "name": "pirate_waifu",
     "extension": "mp4",
     "location": "waifus/pirate_waifu.mp4"
   },
   {
-    "code": "#37",
+    "code": "#40",
     "name": "scared waifu",
     "extension": "gif",
     "location": "waifus/scared waifu.gif"
   },
   {
-    "code": "#38",
+    "code": "#41",
     "name": "smol_waifu",
     "extension": "gif",
     "location": "waifus/smol_waifu.gif"
   },
   {
-    "code": "#39",
+    "code": "#42",
     "name": "surprise_dragon_waifu",
     "extension": "mp4",
     "location": "waifus/surprise_dragon_waifu.mp4"
   },
   {
-    "code": "#40",
+    "code": "#43",
     "name": "waifu_inaba_1",
     "extension": "gif",
     "location": "waifus/waifu_inaba_1.gif"
   },
   {
-    "code": "#41",
+    "code": "#44",
     "name": "waifu_inaba_2",
     "extension": "gif",
     "location": "waifus/waifu_inaba_2.gif"
   },
   {
-    "code": "#42",
+    "code": "#45",
     "name": "waifu_inaba_3",
     "extension": "gif",
     "location": "waifus/waifu_inaba_3.gif"
   },
   {
-    "code": "#43",
+    "code": "#46",
     "name": "waifu_inaba_4",
     "extension": "gif",
     "location": "waifus/waifu_inaba_4.gif"
   },
   {
-    "code": "#44",
+    "code": "#47",
     "name": "waifu_inaba_5",
     "extension": "gif",
     "location": "waifus/waifu_inaba_5.gif"
   },
   {
-    "code": "#45",
+    "code": "#48",
     "name": "waifu_inaba_6",
     "extension": "gif",
     "location": "waifus/waifu_inaba_6.gif"
   },
   {
-    "code": "#46",
+    "code": "#49",
     "name": "walking_umbrella_waifu",
     "extension": "mp4",
     "location": "waifus/walking_umbrella_waifu.mp4"
